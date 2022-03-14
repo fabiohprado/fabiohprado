@@ -1,4 +1,4 @@
-## Olar eu sou o Fábio Prado, estou aprendendo Csharp e Python.
+## Oi eu sou o Fábio, estou aprendendo programação CSharp e Python.
 
 <div align="center">
   <a href="https://github.com/fabiohprado">
