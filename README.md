@@ -1,4 +1,4 @@
-## Sou o Fábio, estou aprendendo CSharp e Dev Web.
+## Fábio here, student in the area of Development more focus in Web.
 
 <div align="center">
   <a href="https://github.com/fabiohprado">
